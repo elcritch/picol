@@ -1,0 +1,12 @@
+
+examples/command
+examples/hello
+examples/regexp-ext
+
+
+*.o
+*.a
+
+*/*.o
+*/*.a
+
